@@ -1,8 +1,8 @@
 # Flying Penguin
 
-자바의 GUI를 이용하여 만든 비행게임입니다.
+**자바의 GUI를 이용하여 만든 비행게임입니다.**
 <br/>
-### 화면 구성
+## 화면 구성
 ---
 <br/>
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-### 게임 방식
+## 게임 방식
 ---
 ![image](https://user-images.githubusercontent.com/57481424/114320228-f4fee800-9b4f-11eb-8fc4-c01f7e1abb9e.png)
 - 3개 Life를 갖고 시작
