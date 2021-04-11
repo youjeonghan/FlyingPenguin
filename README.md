@@ -5,7 +5,9 @@
 ### 화면 구성
 ---
 <br/>
-![image](https://user-images.githubusercontent.com/57481424/114320150-815cdb00-9b4f-11eb-9291-b08d93264f08.png)
+
+![image](https://user-images.githubusercontent.com/57481424/114320327-75bde400-9b50-11eb-9345-df9c8f4fbf68.png)
+
 
 <br/>
 
